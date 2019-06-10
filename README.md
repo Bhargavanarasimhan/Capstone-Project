@@ -1,2 +1,3 @@
 # Capstone-Project
-This project was done as part of Masters Degree
+This project was done as part of Masters Degree. The main objective of the project was to predict the latest technological trends using US patent data. The technologies were chosen by doing sentiment analysis. Then, based on the technology, both supervised and unsupervised algorithms were applied. Prior to that, I was mainly involved in preparing the data for unsupervised algorithms and to perform LDA (Latent Dirichlet allocation). The patent data was cleansed by removing stop words, punctuation, etc. The data was over sampled and so, i used SMOTE analysis. Then, I applied LDA to identify key topics from it based on the coherence scores. 
+
